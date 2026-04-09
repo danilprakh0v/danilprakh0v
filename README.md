@@ -13,6 +13,21 @@
 
 ---
 
+### ⧉ Резюме
+
+Готов к предложениям на позиции **iOS Developer** и **Product Manager**.
+
+<p align="left">
+  <a href="./resume_ios.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download-iOS_Resume-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="iOS Resume" />
+  </a>
+  <a href="./resume_pm.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download-PM_Resume-239120?style=for-the-badge&logo=figma&logoColor=white" alt="PM Resume" />
+  </a>
+</p>
+
+---
+
 ### ❖ Tech Stack
 
 **iOS**
