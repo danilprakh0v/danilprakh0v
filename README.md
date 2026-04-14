@@ -97,6 +97,7 @@
 
 | Проект | Описание | Стек |
 |--------|----------|------|
+| [AntiPlagiarism](https://github.com/danilprakh0v/dprakhov-sd-hw3) | Микросервисная система проверки текстов на плагиат. Clean Architecture, API Gateway (Ocelot), алгоритм Жаккара, генерация word cloud, Swagger UI, Docker Compose. | C#, .NET 8, ASP.NET Core, Ocelot, EF Core, SQLite, Docker |
 | [Async Shop (Gozon)](https://github.com/danilprakh0v/dprakhov-sd-hw4) | Highload e-commerce на EDA. Два доменных сервиса + API Gateway, Transactional Outbox/Inbox, доставка Effectively Exactly Once. Время ответа 320ms → 175ms при 1000 RPS. | .NET 9, RabbitMQ, EF Core, PostgreSQL, Docker |
 | [Software Design HW2](https://github.com/danilprakh0v/dprakhov-sd-hw2) | Архитектурные паттерны, чистый код, SOLID и GRASP на практике. | C# |
 | [Software Design HW1](https://github.com/danilprakh0v/dprakhov-sd-hw1) | Базовые компоненты системы с современными стандартами разработки. | C# |
@@ -105,17 +106,17 @@
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| [iOS Practice 5](https://github.com/danilprakh0v/dprakhov-ios-pw5) | Network Layer + GCD: клиент-серверное взаимодействие, многопоточность, фоновые очереди. | Swift, UIKit |
-| [iOS Practice 4](https://github.com/danilprakh0v/dprakhov-ios-pw4) | UITableView & UICollectionView, кастомные ячейки, Delegate и DataSource паттерны. | Swift, UIKit |
-| [iOS Practice 3](https://github.com/danilprakh0v/dprakhov-ios-pw3) | Сложные UI-компоненты и внутренняя бизнес-логика. | Swift |
-| [iOS Practice 2](https://github.com/danilprakh0v/dprakhov-ios-pw2) | Базовые Apple-фреймворки, Auto Layout. | Swift |
-| [iOS Practice 1](https://github.com/danilprakh0v/dprakhov-ios-pw1) | Погружение в экосистему Apple, синтаксис Swift, Foundation. | Swift |
+| [iOS Practice 5](https://github.com/danilprakh0v/dprakhov-ios-pw5) | Network Layer + GCD: клиент-серверное взаимодействие, многопоточность, фоновые очереди, асинхронные операции. | Swift, UIKit, GCD |
+| [iOS Practice 4](https://github.com/danilprakh0v/dprakhov-ios-pw4) | UITableView & UICollectionView, кастомные ячейки, Delegate и DataSource паттерны, навигация. | Swift, UIKit |
+| [iOS Practice 3](https://github.com/danilprakh0v/dprakhov-ios-pw3) | Сложные UI-компоненты, работа с жестами, анимации, внутренняя бизнес-логика приложения. | Swift, UIKit |
+| [iOS Practice 2](https://github.com/danilprakh0v/dprakhov-ios-pw2) | Базовые Apple-фреймворки, Auto Layout, работа с контроллерами и жизненным циклом. | Swift, UIKit |
+| [iOS Practice 1](https://github.com/danilprakh0v/dprakhov-ios-pw1) | Погружение в экосистему Apple, синтаксис Swift, Foundation, базовые паттерны проектирования. | Swift |
 
 #### ◈ Алгоритмы и структуры данных 
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| [Monte Carlo](https://github.com/danilprakh0v/asd-a1i-monte-carlo-dprakhov) | Вычисление площади стохастическим методом Монте-Карло. | Python, Jupyter |
+| [Monte Carlo](https://github.com/danilprakh0v/asd-a1i-monte-carlo-dprakhov) | Вычисление площади стохастическим методом Монте-Карло. Визуализация и статистический анализ. | Python, Jupyter, NumPy |
 
 ---
 
