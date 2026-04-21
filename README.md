@@ -19,10 +19,10 @@
 
 <p align="left">
   <a href="./resume_ios_dev.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download-iOS_Resume-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="iOS Resume" />
+    <img src="https://img.shields.io/badge/Download-iOS_Resume-239120?style=for-the-badge&logo=swift&logoColor=white" alt="iOS Resume" />
   </a>
   <a href="./resume_product_manager.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download-PM_Resume-239120?style=for-the-badge&logo=target&logoColor=white" alt="PM Resume" />
+    <img src="https://img.shields.io/badge/Download-PM_Resume-FA7343?style=for-the-badge&logo=target&logoColor=white" alt="PM Resume" />
   </a>
 </p>
 
